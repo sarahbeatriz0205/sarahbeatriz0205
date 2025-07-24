@@ -1,4 +1,4 @@
-## Olá, meu nome é Sarah Beatriz 👋
+## Olá👋
 *Redes sociais:* \
 <img src="https://img.shields.io/badge/-GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="badge github"/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge linkedin"/> 
 
