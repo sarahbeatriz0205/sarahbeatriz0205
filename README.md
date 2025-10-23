@@ -1,9 +1,13 @@
-# Olá! Seja Bem-Vindo(a)!👋
+## Olá! Seja Bem-Vindo(a)!👋
+**Me chamo Sarah, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN)**
 
 ### *Minhas redes sociais:*
-<a href="https://github.com/sarahbeatriz0205"><img src="https://img.shields.io/badge/-GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="badge github"/></a> <a href="https://www.linkedin.com/in/sarah-nascimento-840247367"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge linkedin"/></a> <a href="https://www.instagram.com/s4rah_nasc/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="badge github"/></a>
+<a href="https://github.com/sarahbeatriz0205"><img src="https://skillicons.dev/icons?i=github" height="60" alt="c++ logo"/> 
+</a> <img width="8"> <a href="https://www.linkedin.com/in/sarah-nascimento-840247367"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="c++ logo"/> 
+</a> <img width="8"> <a href="https://www.instagram.com/s4rah_nasc/"><img src="https://skillicons.dev/icons?i=instagram" height="60" alt="c++ logo"/> 
+</a>
 
-### *O que eu estou estudando atualmente?*
-<img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="badge python"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="badge c++"/> <img src="https://img.shields.io/badge/-ASSEMBLY-181717?style=for-the-badge" alt="badge assembly"> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="badge html"/> <img src="https://img.shields.io/badge/-CSS-0082F0?logo=css&logoColor=white&style=for-the-badge" alt="badge css"/>
+### *No que estou focando atualmente?*
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="c++ logo"/> <img width="8"> <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"/> <img width="8"> <img src="https://skillicons.dev/icons?i=html" height="60" alt="c++ logo"/> <img width="8"> <img src="https://skillicons.dev/icons?i=css" height="60" alt="c++ logo"/>
 
 
