@@ -1,7 +1,9 @@
 <div align="center"><h1> Olá! Seja Bem-Vindo(a)!👋 </h1>
 
-<p><b>Me chamo Sarah, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN)</b></p>
 </div>
+
+
+<p><b>Me chamo Sarah, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN)</b></p>
 
 <div align="center" id="1">
 <h2> Minhas redes sociais</h2>
