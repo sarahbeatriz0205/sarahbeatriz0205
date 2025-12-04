@@ -13,7 +13,7 @@ print(about_me())
 </div>
 <img height="" />
 <div align="center">
-<a href="https://www.linkedin.com/in/sarah-nascimento-840247367/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""/></a> <img width="12" /> <a href="https://www.instagram.com/s4rah_nasc/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""/></a> <a href="https://github.com/sarahbeatriz0205"><img width="12" /><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=080201&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""/> </a>
+<a href="https://www.linkedin.com/in/sarah-nascimento-840247367/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""/></a>  <a href="https://github.com/sarahbeatriz0205"><img width="12" /><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=080201&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""/> </a>
  
 <img src="https://raw.githubusercontent.com/sarahbeatriz0205/sarahbeatriz0205/output/snake.svg" alt="Snake animation" />
 </div>
