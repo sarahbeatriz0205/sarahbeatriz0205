@@ -20,8 +20,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<br/>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-nascimento-840247367)](https://www.linkedin.com/in/sarah-nascimento-840247367)
