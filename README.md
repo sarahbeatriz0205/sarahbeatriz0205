@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=sarahbeatriz0205&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
