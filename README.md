@@ -24,4 +24,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarah.nascimento02052007@gmail.com)](mailto:sarah.nascimento02052007@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/sarahbeatriz0205?label=Segue&style=social)](https://github.com/sarahbeatriz0205/)
 
-[Space Shooter](game.gif)
+<img src="game.gif" alt="Space Shooter" width="100%">
