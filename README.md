@@ -2,7 +2,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal do Rio Grande do Norte (IFRN)**.
-- 🌱 Aprendendo mais sobre Django e desenvolvimento Web.
 
 ## Minhas Skills
 
