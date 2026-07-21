@@ -24,25 +24,41 @@ Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas n
 
 ## 🚀 Top 6 repositórios
 <div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/bookboxd&description_lines_count=1&theme=nord"
-  />
- <img
-    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/estrutura-dados-tads&theme=nord"
-  />
- 
- <img
-    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/previsao-avc&description_lines_count=1&theme=nord"
-  />
- <img
-    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/Tetris&description_lines_count=1&theme=nord"
-  />
- <img
-    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/sistema-avaliacao-jogos&theme=nord"
-  />
- <img
-    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/sistema-ecommerce&theme=nord"
-  />
+  <a href="https://github.com/sarahbeatriz0205/bookboxd">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/bookboxd&description_lines_count=1&theme=nord"
+    />
+  </a>
+
+  <a href="https://github.com/sarahbeatriz0205/estrutura-dados-tads">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/estrutura-dados-tads&theme=nord"
+    />
+  </a>
+
+  <a href="https://github.com/sarahbeatriz0205/previsao-avc">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/previsao-avc&description_lines_count=1&theme=nord"
+    />
+  </a>
+
+  <a href="https://github.com/sarahbeatriz0205/Tetris">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/Tetris&description_lines_count=1&theme=nord"
+    />
+  </a>
+
+  <a href="https://github.com/sarahbeatriz0205/sistema-avaliacao-jogos">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/sistema-avaliacao-jogos&theme=nord"
+    />
+  </a>
+
+  <a href="https://github.com/sarahbeatriz0205/sistema-ecommerce">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/sistema-ecommerce&theme=nord"
+    />
+  </a>
 </div>
 
 ## 📲 Formas de contato
