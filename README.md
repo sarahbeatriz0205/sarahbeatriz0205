@@ -1,25 +1,65 @@
-## Sobre mim
+# Olá! 👋
+Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte** e atualmente estou no 3º período. Tenho interesse em **algoritmos, estruturas de dados e desenvolvimento back-end**, buscando aprimorar meus conhecimentos por meio de projetos e desafios de programação.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal do Rio Grande do Norte (IFRN)**.
+<div align="center">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=py">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=java">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=cpp">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=html">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=css">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=tailwind">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=docker">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=postgres">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=django">
+</div>
 
-## Minhas Skills
+---
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logo=java)
-![JavaScript](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![BulmaCSS](https://img.shields.io/badge/-BulmaCSS-333333?style=flat&logo=bulma)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=sarahbeatriz0205&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=nord"/>
+</div>
 
-## Onde me encontrar
+---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-nascimento-840247367)](https://www.linkedin.com/in/sarah-nascimento-840247367)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarah.nascimento02052007@gmail.com)](mailto:sarah.nascimento02052007@gmail.com)
+## 🚀 Top 6 repositórios
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/bookboxd&description_lines_count=1&theme=nord"
+  />
+ <img
+    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/estrutura-dados-tads&theme=nord"
+  />
+ 
+ <img
+    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/previsao-avc&description_lines_count=1&theme=nord"
+  />
+ <img
+    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/Tetris&description_lines_count=1&theme=nord"
+  />
+ <img
+    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/sistema-avaliacao-jogos&theme=nord"
+  />
+ <img
+    src="https://github-stats-extended.vercel.app/api/pin?username=sarahbeatriz0205&repo=sarahbeatriz0205/sistema-ecommerce&theme=nord"
+  />
+</div>
 
-<img src="game.gif" alt="Space Shooter" width="100%">
+## 📲 Formas de contato
+**Contato via E-mail ⬇️**
+
+<a href="mailto:sarah.nascimento02052007@gmail.com">
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    alt="Gmail"
+/>
+</a>
+
+**Contato via Linkedin ⬇️**
+
+<a href="https://www.linkedin.com/in/sarah-nascimento-840247367">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    alt="linkedin"
+  />
+</a>
