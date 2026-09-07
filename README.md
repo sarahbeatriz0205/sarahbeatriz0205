@@ -1,5 +1,5 @@
 # Olá! 👋
-Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte** e atualmente estou no 3º período. Tenho interesse em **algoritmos, estruturas de dados e desenvolvimento back-end**, buscando aprimorar meus conhecimentos por meio de projetos e desafios de programação.
+Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte** e atualmente estou no **4º período**. Tenho interesse em **algoritmos, estruturas de dados e desenvolvimento back-end**, buscando aprimorar meus conhecimentos por meio de projetos e desafios de programação.
 
 <div align="center">
 <img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=py">
@@ -22,7 +22,7 @@ Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas n
 
 ---
 
-## 🚀 Top 6 repositórios
+## 🚀 Top repositórios
 <div align="center">
   <a href="https://github.com/sarahbeatriz0205/bookboxd">
     <img
