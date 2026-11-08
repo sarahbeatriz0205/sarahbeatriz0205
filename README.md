@@ -5,12 +5,11 @@ Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas n
 <img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=py">
 <img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=java">
 <img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=cpp">
-<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=html">
-<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=css">
-<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=tailwind">
-<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=docker">
-<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=postgres">
+<img style="height: 60px;" alt="csharp logo" src="https://skillicons.dev/icons?i=cs">
+<img style="height: 60px;" alt="csharp logo" src="https://skillicons.dev/icons?i=js">
 <img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=django">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=dotnet">
+<img style="height: 60px;" alt="python logo" src="https://skillicons.dev/icons?i=postgres">
 </div>
 
 ---
