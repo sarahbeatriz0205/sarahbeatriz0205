@@ -16,7 +16,8 @@ Sou **Sarah Beatriz**, estou cursando **Análise e Desenvolvimento de Sistemas n
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=sarahbeatriz0205&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=nord"/>
+    src="https://github-stats-extended.vercel.app/api?username=sarahbeatriz0205&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=nord"/> <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sarahbeatriz0205&layout=compact&hide_title=true&langs_count=5&theme=nord" /> 
 </div>
 
 ---
